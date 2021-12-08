@@ -1,4 +1,4 @@
-# Online Bakery Store
+# PASTRIESLAND
 
 This allows users to check and purchase various bakery products available online.User can add the selected items it to his shopping cart.User needs to register on the site before checking out.He can then login using same id password next time.Now he may pay through a Stripe.In addition, SQL serves as a backend to store bakery products lists data.Thus, the online Bakery shopping project brings an entire bakery shop online, making it easy for both buyer and seller.
 
